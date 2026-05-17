@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme inline {
+	--color-primary-brown: #2C201A;
+	--color-cream: #E7DFD3;
+
+	--font-cormorant-garamond: "Cormorant Garamond", serif;
+	--font-lato: "Lato", sans-serif;
+	--font-oswald: "Oswald", sans-serif;
+	--font-poppins: "Poppins", sans-serif;
+}
